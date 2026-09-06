@@ -12,8 +12,8 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![ORCID](https://img.shields.io/badge/ORCID-Researcher%20Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](YOUR_ORCID_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vickneswaranharijithan)
+[![ORCID](https://img.shields.io/badge/ORCID-Researcher%20Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-1676-7376)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Personal%20Website-111111?style=for-the-badge&logo=github&logoColor=white)](https://harijithanv.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harijithanv)
 
@@ -27,7 +27,7 @@
 
 ## 🧬 About Me
 
-I am a **Biomedical Science graduate and Medical Laboratory Trainee** with an interdisciplinary interest in **clinical laboratory science, microbiology, antimicrobial resistance, molecular biology, bioinformatics, computational biology, and space biology**.
+I am a **Biomedical Science graduate and Medical Laboratory Technologist** with an interdisciplinary interest in **clinical laboratory science, microbiology, antimicrobial resistance, molecular biology, bioinformatics, computational biology, and space biology**.
 
 My academic and research experience includes **systematic review methodology, scientific literature analysis, antimicrobial resistance research, clinical laboratory diagnostics, microbiology, statistical analysis, research data management, and scientific visualization**.
 
