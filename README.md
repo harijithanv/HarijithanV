@@ -49,7 +49,6 @@ I am currently developing computational skills in **Python, R, bioinformatics, a
 
 ## 🔬 Research Focus
 
-<div align="center">
 
 <table>
 <tr>
